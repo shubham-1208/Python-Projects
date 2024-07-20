@@ -1,0 +1,16 @@
+date,amount,category,description
+20-07-2001,123,Income,salary
+20-07-2001,123,Income,salary
+12-08-2001,123.0,Expense,Party
+12-12-1999,12344.0,Expense,No
+13-07-2024,10000.0,Income,Salary
+22-01-2003,543,Income,Interest
+15-06-2002,678,Expense,Rent
+18-03-2005,345,Income,Dividend
+20-09-2008,987,Expense,Travel
+11-11-2001,234,Income,Salary
+14-05-2006,567,Expense,Food
+17-08-2004,890,Income,Bonus
+10-02-2007,456,Expense,Utilities
+13-04-2009,111,Income,Commission
+16-07-2000,222,Expense,Entertainment
